@@ -7,6 +7,8 @@
 	no mmu/pgtable, single core, no bootstack
 */ 	
 
+//Test
+
 #include "param.h"
 #include "sysregs.h"
 #include "plat.h"
